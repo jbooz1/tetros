@@ -1,1 +1,9 @@
 mbr.img
+.vs
+.aps
+.vc*
+Release
+*.h
+*.vc*
+*.rc
+*.aps
